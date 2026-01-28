@@ -16,7 +16,7 @@ Features
 - Responsive design for mobile/tablet/desktop
 - Smooth page transitions
 
-Getting Started
+Getting Started Run
 ```bash
 npm install
 npm run dev
